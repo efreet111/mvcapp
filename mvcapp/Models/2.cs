@@ -7,5 +7,6 @@ namespace mvcapp.Models
 {
     public class _2
     {
+        // comentario
     }
 }
